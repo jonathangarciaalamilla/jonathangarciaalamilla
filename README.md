@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile.
 
-#### Please note that most of my GitHub contributions are made through private work and academic accounts. This includes proprietary software and course-related projects that cannot be publicly shared. For further details on my experience and contributions, please feel free to contact me directly.
+##### Please note that most of my GitHub contributions are made through private work and academic accounts. This includes proprietary software and course-related projects that cannot be publicly shared. For further details on my experience and contributions, please feel free to contact me directly.
 
 <!--
 **jonathangarciaalamilla/jonathangarciaalamilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
