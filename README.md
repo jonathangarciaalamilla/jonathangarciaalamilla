@@ -1,4 +1,4 @@
-### Hi there 👋
+### Please be advised that GitHub activity may appear limited as the majority of commits are conducted via my work and school accounts. These accounts are utilized for proprietary software development, course assignments, and projects that are not intended for public dissemination. Thank you for your understanding.
 
 <!--
 **jonathangarciaalamilla/jonathangarciaalamilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
