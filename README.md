@@ -1,4 +1,4 @@
-Please note that most of my GitHub contributions are made through private work (internship) and academic accounts. This includes proprietary software and course-related projects that cannot be publicly shared. 
+Please note that most of my GitHub contributions are made through private work and academic accounts. This includes proprietary software and course-related projects that cannot be publicly shared. 
 
 For further details on my experience and contributions, contact me directly at connect@jonathangarcia.com
 
